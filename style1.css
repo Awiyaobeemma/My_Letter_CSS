@@ -1,0 +1,48 @@
+body {
+    margin-top: 3rem;
+    background-color: khaki;
+}
+
+article {
+    margin: auto;
+    width: 85%;
+    background-color: whitesmoke;
+    margin-bottom: 3rem;
+}
+
+.address {
+    text-align: left;
+    width: 300px;
+    max-width: 33%;
+    margin-right: 30px;
+    margin-left: auto;
+    line-height: 6px;
+}
+
+.recipient {
+    line-height: 10px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+}
+
+.heading {
+    text-align: center;
+    font-style: normal;
+    text-decoration: underline;
+    margin-top: 2rem;
+}
+
+.body { 
+    margin-left: 30px;
+    line-height: 30px;
+    margin-right: 30px;
+    text-align: justify;
+}
+
+.closing {
+    margin-right: 15%;
+    margin-left: 50%;
+    text-align: auto;
+    max-width: 26%;
+    line-height: 0.8rem;
+}
